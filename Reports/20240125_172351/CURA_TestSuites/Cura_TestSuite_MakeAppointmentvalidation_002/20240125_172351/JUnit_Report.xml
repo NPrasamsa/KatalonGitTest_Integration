@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Cura_TestSuite_MakeAppointmentvalidation_002" time="132.515" tests="4" failures="0" errors="0">
+   <testsuite name="Cura_TestSuite_MakeAppointmentvalidation_002" tests="4" failures="0" errors="0" time="132.515" skipped="0" timestamp="25-01-2024T17:24:09" hostname="prasu - prasamsa" id="Test Suites/CURA_TestSuites/Cura_TestSuite_MakeAppointmentvalidation_002">
+      <properties>
+         <property name="deviceName"/>
+         <property name="devicePlatform" value="WINDOWS"/>
+         <property name="logFolder" value="C:\\Users\\prasu\\git\\KatalonGitTest_Integration\\Reports\\20240125_172351\\CURA_TestSuites\\Cura_TestSuite_MakeAppointmentvalidation_002\\20240125_172351"/>
+         <property name="logFiles" value="C:\\Users\\prasu\\git\\KatalonGitTest_Integration\\Reports\\20240125_172351\\CURA_TestSuites\\Cura_TestSuite_MakeAppointmentvalidation_002\\20240125_172351\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="prasu - prasamsa"/>
+         <property name="remoteDriverUrl" value="testcloud.katalon.com/hub"/>
+         <property name="desiredCapabilities" value="{&#xa;  &quot;timeouts&quot;: {&#xa;    &quot;implicit&quot;: 0,&#xa;    &quot;pageLoad&quot;: 300000,&#xa;    &quot;script&quot;: 30000&#xa;  },&#xa;  &quot;platform&quot;: &quot;WINDOWS&quot;,&#xa;  &quot;goog:chromeOptions&quot;: {&#xa;    &quot;debuggerAddress&quot;: &quot;localhost:9225&quot;&#xa;  },&#xa;  &quot;requestId&quot;: &quot;0a08ca5c-7508-43e2-bf38-2c71d3a175cf&quot;,&#xa;  &quot;webauthn:extension:credBlob&quot;: true,&#xa;  &quot;acceptInsecureCerts&quot;: false,&#xa;  &quot;browserVersion&quot;: &quot;119.0.0.0&quot;,&#xa;  &quot;fedcm:accounts&quot;: true,&#xa;  &quot;browserName&quot;: &quot;chrome&quot;,&#xa;  &quot;javascriptEnabled&quot;: true,&#xa;  &quot;katalon:option&quot;: {&#xa;    &quot;unlimitedExecutionMinutes&quot;: true,&#xa;    &quot;userId&quot;: 1420152,&#xa;    &quot;organizationId&quot;: &quot;1377565&quot;,&#xa;    &quot;class&quot;: &quot;com.katalon.testcloud.grid.common.tunnel.domain.UserOptionCapability&quot;,&#xa;    &quot;runFromTestCloud&quot;: true,&#xa;    &quot;usingTunnel&quot;: false&#xa;  },&#xa;  &quot;platformName&quot;: &quot;WINDOWS&quot;,&#xa;  &quot;setWindowRect&quot;: true,&#xa;  &quot;webauthn:extension:largeBlob&quot;: true,&#xa;  &quot;networkConnectionEnabled&quot;: false,&#xa;  &quot;chrome&quot;: {&#xa;    &quot;chromedriverVersion&quot;: &quot;119.0.6045.9 (c7ec5863fa5c563b4b9057148aa2ae3f09f7994e-refs/branch-heads/6045@{#87})&quot;,&#xa;    &quot;userDataDir&quot;: &quot;C:\\Program Files (x86)\\scoped_dir2640_1951020423&quot;&#xa;  },&#xa;  &quot;os&quot;: &quot;windows&quot;,&#xa;  &quot;pageLoadStrategy&quot;: &quot;normal&quot;,&#xa;  &quot;unhandledPromptBehavior&quot;: &quot;dismiss and notify&quot;,&#xa;  &quot;strictFileInteractability&quot;: false,&#xa;  &quot;***:loadExtension&quot;: [&#xa;    &quot;https://prod-magicleap-user-files-us-east-1-v1.s3.amazonaws.com/extensions/orgId-691279/SmartWait.zip&quot;&#xa;  ],&#xa;  &quot;version&quot;: &quot;119&quot;,&#xa;  &quot;se:cdp&quot;: &quot;ws://172.48.33.251:4444/session/ff5bdaf137a855a60efadc3216ff6d57/se/cdp&quot;,&#xa;  &quot;proxy&quot;: {&#xa;    &quot;proxyType&quot;: &quot;DIRECT&quot;,&#xa;    &quot;autodetect&quot;: false&#xa;  },&#xa;  &quot;webauthn:extension:minPinLength&quot;: true,&#xa;  &quot;webdriver.remote.sessionid&quot;: &quot;ff5bdaf137a855a60efadc3216ff6d57&quot;,&#xa;  &quot;webauthn:extension:prf&quot;: true,&#xa;  &quot;webauthn:virtualAuthenticators&quot;: true&#xa;}"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="remoteOS" value="Windows"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+         <property name="browser" value="Chrome 119.0.0.0"/>
+         <property name="hostAddress" value="192.168.29.104"/>
+         <property name="sessionId" value="ff5bdaf137a855a60efadc3216ff6d57"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/TC_CURA_Login_001" time="18.606" classname="Test Cases/TC_CURA_Login_001" status="PASSED">
+         <system-out><![CDATA[25-01-2024T17:24:39 - [TEST_CASE][PASSED] - Test Cases/TC_CURA_Login_001: Test Cases/TC_CURA_Login_001
+
+25-01-2024T17:24:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cura Pages/CuraPage_Login_OR/Page_CURA Healthcare Service/a_Make Appointment")): Object: 'Object Repository/Cura Pages/CuraPage_Login_OR/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+25-01-2024T17:24:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Cura Pages/CuraPage_Login_OR/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+25-01-2024T17:24:42 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Cura Pages/CuraPage_Login_OR/input_username"), input_username): Text 'John Doe' is set on object 'Object Repository/Cura Pages/CuraPage_Login_OR/input_username'
+
+25-01-2024T17:24:48 - [MESSAGE][PASSED] - Text 'John Doe' is set on object 'Object Repository/Cura Pages/CuraPage_Login_OR/input_username'
+
+25-01-2024T17:24:49 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Cura Pages/CuraPage_Login_OR/input_password"), input_password): Text 'ThisIsNotAPassword' is set on object 'Object Repository/Cura Pages/CuraPage_Login_OR/input_password'
+
+25-01-2024T17:24:54 - [MESSAGE][PASSED] - Text 'ThisIsNotAPassword' is set on object 'Object Repository/Cura Pages/CuraPage_Login_OR/input_password'
+
+25-01-2024T17:24:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cura Pages/CuraPage_Login_OR/button_Login")): Object: 'Object Repository/Cura Pages/CuraPage_Login_OR/button_Login' is clicked on
+
+25-01-2024T17:24:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Cura Pages/CuraPage_Login_OR/button_Login' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_CURA_MakeAppointmentvalidation_002" time="60.837" classname="Test Cases/TC_CURA_MakeAppointmentvalidation_002" status="PASSED">
+         <system-out><![CDATA[25-01-2024T17:24:57 - [TEST_CASE][PASSED] - Test Cases/TC_CURA_MakeAppointmentvalidation_002: Test Cases/TC_CURA_MakeAppointmentvalidation_002
+
+25-01-2024T17:24:57 - [TEST_STEP][PASSED] - verifyOptionPresentByLabel(findTestObject("Cura Pages/CuraPage_Login_OR/Page_CURA Healthcare Service/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107"), "Hongkong CURA Healthcare Center", false, 0): 1 option(s) with label 'Hongkong CURA Healthcare Center' is/are present in object 'Object Repository/Cura Pages/CuraPage_Login_OR/Page_CURA Healthcare Service/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107' 
+
+25-01-2024T17:24:57 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+25-01-2024T17:25:05 - [MESSAGE][PASSED] - 1 option(s) with label 'Hongkong CURA Healthcare Center' is/are present in object 'Object Repository/Cura Pages/CuraPage_Login_OR/Page_CURA Healthcare Service/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107' 
+
+25-01-2024T17:25:05 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107"), "Hongkong CURA Healthcare Center", true): All options with value 'Hongkong CURA Healthcare Center' are selected in object 'Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107'  using regular expression
+
+25-01-2024T17:25:19 - [MESSAGE][PASSED] - All options with value 'Hongkong CURA Healthcare Center' are selected in object 'Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107'  using regular expression
+
+25-01-2024T17:25:19 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("Object Repository/Page_CURA Healthcare Service/input_hospital_readmission")): Object 'Object Repository/Page_CURA Healthcare Service/input_hospital_readmission' is clickable
+
+25-01-2024T17:25:22 - [MESSAGE][PASSED] - Object 'Object Repository/Page_CURA Healthcare Service/input_hospital_readmission' is clickable
+
+25-01-2024T17:25:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/input_hospital_readmission")): Object: 'Object Repository/Page_CURA Healthcare Service/input_hospital_readmission' is clicked on
+
+25-01-2024T17:25:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/input_hospital_readmission' is clicked on
+
+25-01-2024T17:25:25 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+25-01-2024T17:25:27 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+25-01-2024T17:25:27 - [TEST_STEP][PASSED] - unchecked = verifyElementNotChecked(findTestObject("Page_CURA Healthcare Service/input_programs"), 0): Object 'Object Repository/Page_CURA Healthcare Service/input_programs' is not checked
+
+25-01-2024T17:25:27 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+25-01-2024T17:25:30 - [MESSAGE][PASSED] - Object 'Object Repository/Page_CURA Healthcare Service/input_programs' is not checked
+
+25-01-2024T17:25:30 - [TEST_STEP][PASSED] - click(findTestObject("Page_CURA Healthcare Service/input_Medicaid_programs")): Object: 'Object Repository/Page_CURA Healthcare Service/input_Medicaid_programs' is clicked on
+
+25-01-2024T17:25:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/input_Medicaid_programs' is clicked on
+
+25-01-2024T17:25:33 - [TEST_STEP][PASSED] - if (unchecked == "true"): null
+
+25-01-2024T17:25:33 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+25-01-2024T17:25:36 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+25-01-2024T17:25:36 - [TEST_STEP][PASSED] - verifyElementChecked(findTestObject("Page_CURA Healthcare Service/input_Medicaid_programs"), 0): Object 'Object Repository/Page_CURA Healthcare Service/input_Medicaid_programs' is checked
+
+25-01-2024T17:25:36 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+25-01-2024T17:25:38 - [MESSAGE][PASSED] - Object 'Object Repository/Page_CURA Healthcare Service/input_Medicaid_programs' is checked
+
+25-01-2024T17:25:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/span_glyphicon glyphicon-calendar")): Object: 'Object Repository/Page_CURA Healthcare Service/span_glyphicon glyphicon-calendar' is clicked on
+
+25-01-2024T17:25:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/span_glyphicon glyphicon-calendar' is clicked on
+
+25-01-2024T17:25:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/td_17")): Object: 'Object Repository/Page_CURA Healthcare Service/td_17' is clicked on
+
+25-01-2024T17:25:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/td_17' is clicked on
+
+25-01-2024T17:25:44 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_CURA Healthcare Service/textarea_comment"), "Katalon"): Text 'Katalon' is set on object 'Object Repository/Page_CURA Healthcare Service/textarea_comment'
+
+25-01-2024T17:25:50 - [MESSAGE][PASSED] - Text 'Katalon' is set on object 'Object Repository/Page_CURA Healthcare Service/textarea_comment'
+
+25-01-2024T17:25:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/button_Book Appointment")): Object: 'Object Repository/Page_CURA Healthcare Service/button_Book Appointment' is clicked on
+
+25-01-2024T17:25:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/button_Book Appointment' is clicked on
+
+25-01-2024T17:25:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/a_Go to Homepage")): Object: 'Object Repository/Page_CURA Healthcare Service/a_Go to Homepage' is clicked on
+
+25-01-2024T17:25:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Go to Homepage' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/History validation__005" time="8.644" classname="Test Cases/History validation__005" status="PASSED">
+         <system-out><![CDATA[25-01-2024T17:25:58 - [TEST_CASE][PASSED] - Test Cases/History validation__005: Test Cases/History validation__005
+
+25-01-2024T17:25:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/amenu-toggle")): Object: 'Object Repository/Page_CURA Healthcare Service/amenu-toggle' is clicked on
+
+25-01-2024T17:26:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/amenu-toggle' is clicked on
+
+25-01-2024T17:26:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/a_History")): Object: 'Object Repository/Page_CURA Healthcare Service/a_History' is clicked on
+
+25-01-2024T17:26:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_History' is clicked on
+
+25-01-2024T17:26:04 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_CURA Healthcare Service/p_Hongkong CURA Healthcare Center")): Object 'Object Repository/Page_CURA Healthcare Service/p_Hongkong CURA Healthcare Center' is visible
+
+25-01-2024T17:26:07 - [MESSAGE][PASSED] - Object 'Object Repository/Page_CURA Healthcare Service/p_Hongkong CURA Healthcare Center' is visible]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_cura logout__003" time="14.356" classname="Test Cases/TC_cura logout__003" status="PASSED">
+         <system-out><![CDATA[25-01-2024T17:26:07 - [TEST_CASE][PASSED] - Test Cases/TC_cura logout__003: Test Cases/TC_cura logout__003
+
+25-01-2024T17:26:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/amenu-toggle")): Object: 'Object Repository/Page_CURA Healthcare Service/amenu-toggle' is clicked on
+
+25-01-2024T17:26:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/amenu-toggle' is clicked on
+
+25-01-2024T17:26:10 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("Object Repository/Page_CURA Healthcare Service/a_Logout")): Object 'Object Repository/Page_CURA Healthcare Service/a_Logout' is clickable
+
+25-01-2024T17:26:12 - [MESSAGE][PASSED] - Object 'Object Repository/Page_CURA Healthcare Service/a_Logout' is clickable
+
+25-01-2024T17:26:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/a_Logout")): Object: 'Object Repository/Page_CURA Healthcare Service/a_Logout' is clicked on
+
+25-01-2024T17:26:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Logout' is clicked on
+
+25-01-2024T17:26:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/amenu-toggle")): Object: 'Object Repository/Page_CURA Healthcare Service/amenu-toggle' is clicked on
+
+25-01-2024T17:26:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/amenu-toggle' is clicked on
+
+25-01-2024T17:26:18 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("Object Repository/Page_CURA Healthcare Service/a_Login")): Object 'Object Repository/Page_CURA Healthcare Service/a_Login' is clickable
+
+25-01-2024T17:26:21 - [MESSAGE][PASSED] - Object 'Object Repository/Page_CURA Healthcare Service/a_Login' is clickable]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[25-01-2024T17:24:09 - [TEST_SUITE][PASSED] - Cura_TestSuite_MakeAppointmentvalidation_002: Test Cases/TC_cura logout__003]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
