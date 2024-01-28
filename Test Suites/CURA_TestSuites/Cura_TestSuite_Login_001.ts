@@ -18,7 +18,7 @@
       <testCaseId>Test Cases/TC_CURA_Login_001</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>35df1a74-5e6c-47bd-98e5-fd110e82147b</id>
+         <id>e3095b4f-53bd-4f05-812c-d576169e97f7</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -27,13 +27,13 @@
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>35df1a74-5e6c-47bd-98e5-fd110e82147b</testDataLinkId>
+         <testDataLinkId>e3095b4f-53bd-4f05-812c-d576169e97f7</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>input_password</value>
          <variableId>f239768e-4ac9-47e0-b0e7-07ddf6f239ff</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>35df1a74-5e6c-47bd-98e5-fd110e82147b</testDataLinkId>
+         <testDataLinkId>e3095b4f-53bd-4f05-812c-d576169e97f7</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>input_username</value>
          <variableId>95930a5d-c5a3-4bae-bcd8-320e44148270</variableId>
