@@ -1966,3 +1966,396 @@
   <escapedJava>false</escapedJava>
 </record>
 </log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-01-28T15:01:47.078656300Z</date>
+  <millis>1706454107078</millis>
+  <nanos>656300</nanos>
+  <sequence>2114</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>567</thread>
+  <message>Finding test data with id &amp;apos;Data Files/Test Data/Cura_Login_Test Data&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-01-28T15:01:47.182898Z</date>
+  <millis>1706454107182</millis>
+  <nanos>898000</nanos>
+  <sequence>2115</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>567</thread>
+  <message>Test data is excel file, reading excel file</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-01-28T15:01:47.183899300Z</date>
+  <millis>1706454107183</millis>
+  <nanos>899300</nanos>
+  <sequence>2116</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>567</thread>
+  <message>Reading excel file with source file &amp;apos;C:\Users\prasu\Desktop\katalon\SAT_TEST  CASE TEMPLATE.xlsx&amp;apos; and sheet name &amp;apos;Table-2&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-01-28T15:03:53.954404300Z</date>
+  <millis>1706454233954</millis>
+  <nanos>404300</nanos>
+  <sequence>2530</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding test data with id &amp;apos;Data Files/Test Data/Cura_Login_Test Data&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-01-28T15:03:53.957408500Z</date>
+  <millis>1706454233957</millis>
+  <nanos>408500</nanos>
+  <sequence>2531</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test data is excel file, reading excel file</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-01-28T15:03:53.958395Z</date>
+  <millis>1706454233958</millis>
+  <nanos>395000</nanos>
+  <sequence>2532</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Reading excel file with source file &amp;apos;C:\Users\prasu\Desktop\katalon\SAT_TEST  CASE TEMPLATE.xlsx&amp;apos; and sheet name &amp;apos;Table-2&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-01-28T15:04:01.278177600Z</date>
+  <millis>1706454241278</millis>
+  <nanos>177600</nanos>
+  <sequence>2533</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding test data with id &amp;apos;Data Files/Test Data/Cura_Login_Test Data&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-01-28T15:04:01.281211200Z</date>
+  <millis>1706454241281</millis>
+  <nanos>211200</nanos>
+  <sequence>2534</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test data is excel file, reading excel file</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-01-28T15:04:01.282211600Z</date>
+  <millis>1706454241282</millis>
+  <nanos>211600</nanos>
+  <sequence>2535</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Reading excel file with source file &amp;apos;C:\Users\prasu\Desktop\katalon\SAT_TEST  CASE TEMPLATE.xlsx&amp;apos; and sheet name &amp;apos;Table-2&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-01-28T15:04:09.665087400Z</date>
+  <millis>1706454249665</millis>
+  <nanos>87400</nanos>
+  <sequence>2536</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding test data with id &amp;apos;Data Files/Test Data/Cura_Login_Test Data&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-01-28T15:04:09.667098500Z</date>
+  <millis>1706454249667</millis>
+  <nanos>98500</nanos>
+  <sequence>2537</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test data is excel file, reading excel file</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-01-28T15:04:09.668097300Z</date>
+  <millis>1706454249668</millis>
+  <nanos>97300</nanos>
+  <sequence>2538</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Reading excel file with source file &amp;apos;C:\Users\prasu\Desktop\katalon\SAT_TEST  CASE TEMPLATE.xlsx&amp;apos; and sheet name &amp;apos;Table-2&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-01-28T15:04:12.655626600Z</date>
+  <millis>1706454252655</millis>
+  <nanos>626600</nanos>
+  <sequence>2539</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding test data with id &amp;apos;Data Files/Test Data/Cura_Login_Test Data&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-01-28T15:04:12.659625200Z</date>
+  <millis>1706454252659</millis>
+  <nanos>625200</nanos>
+  <sequence>2540</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test data is excel file, reading excel file</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-01-28T15:04:12.660623400Z</date>
+  <millis>1706454252660</millis>
+  <nanos>623400</nanos>
+  <sequence>2541</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Reading excel file with source file &amp;apos;C:\Users\prasu\Desktop\katalon\SAT_TEST  CASE TEMPLATE.xlsx&amp;apos; and sheet name &amp;apos;Table-2&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-01-28T15:06:34.088973Z</date>
+  <millis>1706454394088</millis>
+  <nanos>973000</nanos>
+  <sequence>2904</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding test data with id &amp;apos;Data Files/Test Data/Cura_Login_Test Data&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-01-28T15:06:34.090974300Z</date>
+  <millis>1706454394090</millis>
+  <nanos>974300</nanos>
+  <sequence>2905</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test data is excel file, reading excel file</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-01-28T15:06:34.092238100Z</date>
+  <millis>1706454394092</millis>
+  <nanos>238100</nanos>
+  <sequence>2906</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Reading excel file with source file &amp;apos;C:\Users\prasu\Desktop\katalon\SAT_TEST  CASE TEMPLATE.xlsx&amp;apos; and sheet name &amp;apos;Table-2&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-01-28T15:07:12.711290700Z</date>
+  <millis>1706454432711</millis>
+  <nanos>290700</nanos>
+  <sequence>2907</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding test data with id &amp;apos;Data Files/Test Data/Cura_Login_Test Data&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-01-28T15:07:12.714295500Z</date>
+  <millis>1706454432714</millis>
+  <nanos>295500</nanos>
+  <sequence>2908</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test data is excel file, reading excel file</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-01-28T15:07:12.715309200Z</date>
+  <millis>1706454432715</millis>
+  <nanos>309200</nanos>
+  <sequence>2909</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Reading excel file with source file &amp;apos;C:\Users\prasu\Desktop\katalon\SAT_TEST  CASE TEMPLATE.xlsx&amp;apos; and sheet name &amp;apos;Table-2&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-01-28T15:07:57.280071300Z</date>
+  <millis>1706454477280</millis>
+  <nanos>71300</nanos>
+  <sequence>2936</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding test data with id &amp;apos;Data Files/Test Data/Cura_Login_Test Data&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-01-28T15:07:57.286093900Z</date>
+  <millis>1706454477286</millis>
+  <nanos>93900</nanos>
+  <sequence>2937</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test data is excel file, reading excel file</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-01-28T15:07:57.287092800Z</date>
+  <millis>1706454477287</millis>
+  <nanos>92800</nanos>
+  <sequence>2938</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Reading excel file with source file &amp;apos;C:\Users\prasu\Desktop\katalon\SAT_TEST  CASE TEMPLATE.xlsx&amp;apos; and sheet name &amp;apos;Table-2&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-01-28T15:09:14.955706300Z</date>
+  <millis>1706454554955</millis>
+  <nanos>706300</nanos>
+  <sequence>2941</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding test data with id &amp;apos;Data Files/Test Data/Cura_Login_Test Data&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-01-28T15:09:14.959729300Z</date>
+  <millis>1706454554959</millis>
+  <nanos>729300</nanos>
+  <sequence>2942</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test data is excel file, reading excel file</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-01-28T15:09:14.960730100Z</date>
+  <millis>1706454554960</millis>
+  <nanos>730100</nanos>
+  <sequence>2943</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Reading excel file with source file &amp;apos;C:\Users\prasu\Desktop\katalon\Documents\SAT_TEST  CASE TEMPLATE.xlsx&amp;apos; and sheet name &amp;apos;Table-2&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-01-28T15:09:20.457942800Z</date>
+  <millis>1706454560457</millis>
+  <nanos>942800</nanos>
+  <sequence>2944</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>643</thread>
+  <message>Finding test data with id &amp;apos;Data Files/Test Data/Cura_Login_Test Data&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-01-28T15:09:20.459973400Z</date>
+  <millis>1706454560459</millis>
+  <nanos>973400</nanos>
+  <sequence>2945</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>643</thread>
+  <message>Test data is excel file, reading excel file</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-01-28T15:09:20.459973400Z</date>
+  <millis>1706454560459</millis>
+  <nanos>973400</nanos>
+  <sequence>2946</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>643</thread>
+  <message>Reading excel file with source file &amp;apos;C:\Users\prasu\Desktop\katalon\Documents\SAT_TEST  CASE TEMPLATE.xlsx&amp;apos; and sheet name &amp;apos;Table-2&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>

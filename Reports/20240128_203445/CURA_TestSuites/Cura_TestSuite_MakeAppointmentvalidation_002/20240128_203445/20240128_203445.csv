@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Cura_TestSuite_MakeAppointmentvalidation_002,Chrome 121.0.0.0,,,28-01-2024 20:34:51,28-01-2024 20:35:02,11.097s,FAILED
+,,,,,,,
+Test Cases/TC_CURA_Login_001,Chrome 121.0.0.0,,,28-01-2024 20:34:56,28-01-2024 20:35:00,4.194s,PASSED
+"click(findTestObject(""Cura Pages/CuraPage_Login_OR/Page_CURA Healthcare Service/a_Make Appointment""))",Chrome 121.0.0.0,,,28-01-2024 20:34:56,28-01-2024 20:34:57,0.818s,PASSED
+"setText(findTestObject(""Object Repository/Cura Pages/CuraPage_Login_OR/input_username""), input_username)",Chrome 121.0.0.0,,,28-01-2024 20:34:57,28-01-2024 20:34:58,0.946s,PASSED
+"setText(findTestObject(""Object Repository/Cura Pages/CuraPage_Login_OR/input_password""), input_password)",Chrome 121.0.0.0,,,28-01-2024 20:34:58,28-01-2024 20:34:59,0.808s,PASSED
+"click(findTestObject(""Object Repository/Cura Pages/CuraPage_Login_OR/button_Login""))",Chrome 121.0.0.0,,,28-01-2024 20:34:59,28-01-2024 20:35:00,1.451s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointmentvalidation_002,Chrome 121.0.0.0,,,28-01-2024 20:35:01,28-01-2024 20:35:01,0.253s,FAILED
+"verifyOptionPresentByLabel(findTestObject(""Cura Pages/CuraPage_Login_OR/Page_CURA Healthcare Service/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), ""Hongkong CURA Healthcare Center"", false, 0)",Chrome 121.0.0.0,"Validates  ""facility"" dropdown button and verify if ""Hongkong CURA health care center"" available in the option or not",,28-01-2024 20:35:01,28-01-2024 20:35:01,0.192s,FAILED
+,,,,,,,
+Test Cases/History validation__005,Chrome 121.0.0.0,,,28-01-2024 20:35:01,28-01-2024 20:35:02,0.229s,FAILED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/amenu-toggle""))",Chrome 121.0.0.0,,,28-01-2024 20:35:02,28-01-2024 20:35:02,0.191s,FAILED
+,,,,,,,
+Test Cases/TC_cura logout__003,Chrome 121.0.0.0,,,28-01-2024 20:35:02,28-01-2024 20:35:02,0.162s,FAILED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/amenu-toggle""))",Chrome 121.0.0.0,,,28-01-2024 20:35:02,28-01-2024 20:35:02,0.128s,FAILED
