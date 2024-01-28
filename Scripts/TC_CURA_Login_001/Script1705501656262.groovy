@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/Cura Pages/CuraPage_Login_OR/Page_CURA Healthcare Service/a_Make Appointment'))
+WebUI.click(findTestObject('Cura Pages/CuraPage_Login_OR/Page_CURA Healthcare Service/a_Make Appointment'))
 
 WebUI.setText(findTestObject('Object Repository/Cura Pages/CuraPage_Login_OR/input_username'), input_username)
 
